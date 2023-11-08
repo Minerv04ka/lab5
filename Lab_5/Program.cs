@@ -32,8 +32,7 @@ class Program
 
         while (!double.TryParse(Console.ReadLine(), out side) || side < 0)
         {
-            Console.WriteLine("Введено некоректне значення. Введіть будь ласка додатнє число.");
-            Console.Write("Введіть довжину ребра куба: ");
+            Console.WriteLine("Введено некоректне значення. Введіть будь ласка додатнє число.");5
         }
 
         cube.SideLength = side;
