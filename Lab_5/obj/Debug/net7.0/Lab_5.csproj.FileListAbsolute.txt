@@ -1,0 +1,28 @@
+C:\Projects\OOP\Lab_5\Lab_5\bin\Debug\net7.0\Lab_5.exe
+C:\Projects\OOP\Lab_5\Lab_5\bin\Debug\net7.0\Lab_5.deps.json
+C:\Projects\OOP\Lab_5\Lab_5\bin\Debug\net7.0\Lab_5.runtimeconfig.json
+C:\Projects\OOP\Lab_5\Lab_5\bin\Debug\net7.0\Lab_5.dll
+C:\Projects\OOP\Lab_5\Lab_5\bin\Debug\net7.0\Lab_5.pdb
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.AssemblyInfoInputs.cache
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.AssemblyInfo.cs
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.csproj.CoreCompileInputs.cache
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.dll
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\refint\Lab_5.dll
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.pdb
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\Lab_5.genruntimeconfig.cache
+C:\Projects\OOP\Lab_5\Lab_5\obj\Debug\net7.0\ref\Lab_5.dll
+d:\Новая папка\lab5\Lab_5\bin\Debug\net7.0\Lab_5.exe
+d:\Новая папка\lab5\Lab_5\bin\Debug\net7.0\Lab_5.deps.json
+d:\Новая папка\lab5\Lab_5\bin\Debug\net7.0\Lab_5.runtimeconfig.json
+d:\Новая папка\lab5\Lab_5\bin\Debug\net7.0\Lab_5.dll
+d:\Новая папка\lab5\Lab_5\bin\Debug\net7.0\Lab_5.pdb
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.GeneratedMSBuildEditorConfig.editorconfig
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.AssemblyInfoInputs.cache
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.AssemblyInfo.cs
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.csproj.CoreCompileInputs.cache
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.dll
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\refint\Lab_5.dll
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.pdb
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\Lab_5.genruntimeconfig.cache
+d:\Новая папка\lab5\Lab_5\obj\Debug\net7.0\ref\Lab_5.dll
