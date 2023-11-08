@@ -32,7 +32,7 @@ class Program
 
         while (!double.TryParse(Console.ReadLine(), out side) || side < 0)
         {
-            Console.WriteLine("Введено некоректне значення. Введіть будь ласка додатнє число.");5
+            Console.WriteLine("Введено некоректне значення. Введіть будь ласка додатнє число.");
         }
 
         cube.SideLength = side;
